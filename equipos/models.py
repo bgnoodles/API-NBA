@@ -24,4 +24,3 @@ class Jugador(models.Model):
     def __str__(self):
         return f"{self.nombre} {self.apellido}"
     
-#falta migrar y hacer todo lo demas
